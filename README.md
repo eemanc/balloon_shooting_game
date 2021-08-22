@@ -6,6 +6,6 @@ Use the up and down arrow keys to move the shooter and spacebar to shoot bullets
 ## Project Setup
 Pygame must be installed. Installation instructions can be found at https://www.pygame.org/wiki/GettingStarted
 
-To run game:`python3 game.py`
+To run game: `python3 game.py`
 #
 Have fun!
